@@ -1,0 +1,13 @@
+{
+ "generatedUtc": "2026-07-14T09:31:40.683829+00:00",
+ "buses": 316,
+ "branches": 579,
+ "generators": 1025,
+ "demand_points": 305,
+ "total_demand_mw": 53279.4,
+ "total_generation_mw": 49833.8,
+ "folded_gbfull_buses": 3536,
+ "orphan_demand_mw": 5.6,
+ "orphan_generation_mw": 33.3,
+ "note": "GSP-level fold of gb-full: BFS subtree assignment onto spine buses; sub-GSP impedances dropped by design (estimation target network)."
+}

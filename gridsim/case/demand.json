@@ -1,0 +1,1832 @@
+[
+ {
+  "bus": 1,
+  "name": "folded demand @ 1",
+  "pMw": 668.565,
+  "qMvar": 104.541
+ },
+ {
+  "bus": 2,
+  "name": "folded demand @ 2",
+  "pMw": 56.216,
+  "qMvar": 17.571
+ },
+ {
+  "bus": 3,
+  "name": "folded demand @ 3",
+  "pMw": 327.497,
+  "qMvar": 31.999
+ },
+ {
+  "bus": 4,
+  "name": "folded demand @ 4",
+  "pMw": 397.564,
+  "qMvar": 89.591
+ },
+ {
+  "bus": 5,
+  "name": "folded demand @ 5",
+  "pMw": 0.454,
+  "qMvar": 0.092
+ },
+ {
+  "bus": 6,
+  "name": "folded demand @ 6",
+  "pMw": 66.673,
+  "qMvar": 6.28
+ },
+ {
+  "bus": 7,
+  "name": "folded demand @ 7",
+  "pMw": 534.709,
+  "qMvar": 23.183
+ },
+ {
+  "bus": 8,
+  "name": "folded demand @ 8",
+  "pMw": 106.774,
+  "qMvar": 26.812
+ },
+ {
+  "bus": 9,
+  "name": "folded demand @ 9",
+  "pMw": 35.0,
+  "qMvar": 11.504
+ },
+ {
+  "bus": 11,
+  "name": "folded demand @ 11",
+  "pMw": 0.278,
+  "qMvar": 0.056
+ },
+ {
+  "bus": 12,
+  "name": "folded demand @ 12",
+  "pMw": 249.05,
+  "qMvar": 41.731
+ },
+ {
+  "bus": 13,
+  "name": "folded demand @ 13",
+  "pMw": 42.066,
+  "qMvar": 3.254
+ },
+ {
+  "bus": 14,
+  "name": "folded demand @ 14",
+  "pMw": 49.19,
+  "qMvar": 5.141
+ },
+ {
+  "bus": 15,
+  "name": "folded demand @ 15",
+  "pMw": 29.961,
+  "qMvar": 1.812
+ },
+ {
+  "bus": 16,
+  "name": "folded demand @ 16",
+  "pMw": 79.8,
+  "qMvar": 22.241
+ },
+ {
+  "bus": 17,
+  "name": "folded demand @ 17",
+  "pMw": 0.747,
+  "qMvar": 0.152
+ },
+ {
+  "bus": 18,
+  "name": "folded demand @ 18",
+  "pMw": 97.3,
+  "qMvar": 24.386
+ },
+ {
+  "bus": 19,
+  "name": "folded demand @ 19",
+  "pMw": 397.3,
+  "qMvar": 112.845
+ },
+ {
+  "bus": 20,
+  "name": "folded demand @ 20",
+  "pMw": 29.896,
+  "qMvar": 1.314
+ },
+ {
+  "bus": 21,
+  "name": "folded demand @ 21",
+  "pMw": 345.77,
+  "qMvar": 62.927
+ },
+ {
+  "bus": 22,
+  "name": "folded demand @ 22",
+  "pMw": 348.651,
+  "qMvar": 68.054
+ },
+ {
+  "bus": 23,
+  "name": "folded demand @ 23",
+  "pMw": 203.88,
+  "qMvar": 30.577
+ },
+ {
+  "bus": 24,
+  "name": "folded demand @ 24",
+  "pMw": 365.22,
+  "qMvar": 24.496
+ },
+ {
+  "bus": 25,
+  "name": "folded demand @ 25",
+  "pMw": 180.884,
+  "qMvar": 40.137
+ },
+ {
+  "bus": 26,
+  "name": "folded demand @ 26",
+  "pMw": 0.283,
+  "qMvar": 0.057
+ },
+ {
+  "bus": 27,
+  "name": "folded demand @ 27",
+  "pMw": 813.035,
+  "qMvar": 252.335
+ },
+ {
+  "bus": 28,
+  "name": "folded demand @ 28",
+  "pMw": 59.078,
+  "qMvar": 2.46
+ },
+ {
+  "bus": 29,
+  "name": "folded demand @ 29",
+  "pMw": 129.509,
+  "qMvar": 26.298
+ },
+ {
+  "bus": 30,
+  "name": "folded demand @ 30",
+  "pMw": 9.99,
+  "qMvar": 3.319
+ },
+ {
+  "bus": 31,
+  "name": "folded demand @ 31",
+  "pMw": 80.8,
+  "qMvar": 23.567
+ },
+ {
+  "bus": 32,
+  "name": "folded demand @ 32",
+  "pMw": 46.561,
+  "qMvar": 6.49
+ },
+ {
+  "bus": 33,
+  "name": "folded demand @ 33",
+  "pMw": 371.386,
+  "qMvar": 18.473
+ },
+ {
+  "bus": 34,
+  "name": "folded demand @ 34",
+  "pMw": 266.042,
+  "qMvar": 66.676
+ },
+ {
+  "bus": 35,
+  "name": "folded demand @ 35",
+  "pMw": 710.511,
+  "qMvar": 207.232
+ },
+ {
+  "bus": 36,
+  "name": "folded demand @ 36",
+  "pMw": 6.0,
+  "qMvar": 0.0
+ },
+ {
+  "bus": 37,
+  "name": "folded demand @ 37",
+  "pMw": 320.2,
+  "qMvar": 93.392
+ },
+ {
+  "bus": 38,
+  "name": "folded demand @ 38",
+  "pMw": 1417.953,
+  "qMvar": 287.928
+ },
+ {
+  "bus": 39,
+  "name": "folded demand @ 39",
+  "pMw": 10.0,
+  "qMvar": 2.031
+ },
+ {
+  "bus": 40,
+  "name": "folded demand @ 40",
+  "pMw": 9.076,
+  "qMvar": 1.843
+ },
+ {
+  "bus": 41,
+  "name": "folded demand @ 41",
+  "pMw": 52.113,
+  "qMvar": 5.672
+ },
+ {
+  "bus": 42,
+  "name": "folded demand @ 42",
+  "pMw": 361.969,
+  "qMvar": 42.01
+ },
+ {
+  "bus": 43,
+  "name": "folded demand @ 43",
+  "pMw": 45.842,
+  "qMvar": 9.309
+ },
+ {
+  "bus": 44,
+  "name": "folded demand @ 44",
+  "pMw": 282.858,
+  "qMvar": 82.5
+ },
+ {
+  "bus": 45,
+  "name": "folded demand @ 45",
+  "pMw": 97.3,
+  "qMvar": 3.259
+ },
+ {
+  "bus": 46,
+  "name": "folded demand @ 46",
+  "pMw": 445.701,
+  "qMvar": 34.251
+ },
+ {
+  "bus": 47,
+  "name": "folded demand @ 47",
+  "pMw": 1.439,
+  "qMvar": 0.292
+ },
+ {
+  "bus": 48,
+  "name": "folded demand @ 48",
+  "pMw": 72.448,
+  "qMvar": 1.82
+ },
+ {
+  "bus": 49,
+  "name": "folded demand @ 49",
+  "pMw": 263.195,
+  "qMvar": 73.276
+ },
+ {
+  "bus": 50,
+  "name": "folded demand @ 50",
+  "pMw": 186.609,
+  "qMvar": 15.683
+ },
+ {
+  "bus": 52,
+  "name": "folded demand @ 52",
+  "pMw": 253.81,
+  "qMvar": 55.405
+ },
+ {
+  "bus": 53,
+  "name": "folded demand @ 53",
+  "pMw": 0.179,
+  "qMvar": 0.036
+ },
+ {
+  "bus": 54,
+  "name": "folded demand @ 54",
+  "pMw": 14.88,
+  "qMvar": 0.015
+ },
+ {
+  "bus": 55,
+  "name": "folded demand @ 55",
+  "pMw": 2.618,
+  "qMvar": 0.532
+ },
+ {
+  "bus": 56,
+  "name": "folded demand @ 56",
+  "pMw": 383.075,
+  "qMvar": 46.416
+ },
+ {
+  "bus": 57,
+  "name": "folded demand @ 57",
+  "pMw": 45.324,
+  "qMvar": 1.899
+ },
+ {
+  "bus": 58,
+  "name": "folded demand @ 58",
+  "pMw": 49.9,
+  "qMvar": 10.133
+ },
+ {
+  "bus": 59,
+  "name": "folded demand @ 59",
+  "pMw": 70.212,
+  "qMvar": 3.793
+ },
+ {
+  "bus": 60,
+  "name": "folded demand @ 60",
+  "pMw": 83.082,
+  "qMvar": 16.871
+ },
+ {
+  "bus": 61,
+  "name": "folded demand @ 61",
+  "pMw": 286.44,
+  "qMvar": 95.86
+ },
+ {
+  "bus": 62,
+  "name": "folded demand @ 62",
+  "pMw": 679.386,
+  "qMvar": 126.233
+ },
+ {
+  "bus": 63,
+  "name": "folded demand @ 63",
+  "pMw": 879.608,
+  "qMvar": 300.62
+ },
+ {
+  "bus": 64,
+  "name": "folded demand @ 64",
+  "pMw": 1.07,
+  "qMvar": 0.217
+ },
+ {
+  "bus": 65,
+  "name": "folded demand @ 65",
+  "pMw": 28.711,
+  "qMvar": 5.83
+ },
+ {
+  "bus": 66,
+  "name": "folded demand @ 66",
+  "pMw": 64.52,
+  "qMvar": 2.239
+ },
+ {
+  "bus": 67,
+  "name": "folded demand @ 67",
+  "pMw": 57.791,
+  "qMvar": 3.476
+ },
+ {
+  "bus": 68,
+  "name": "folded demand @ 68",
+  "pMw": 44.397,
+  "qMvar": 1.941
+ },
+ {
+  "bus": 70,
+  "name": "folded demand @ 70",
+  "pMw": 49.958,
+  "qMvar": 16.413
+ },
+ {
+  "bus": 71,
+  "name": "folded demand @ 71",
+  "pMw": 292.22,
+  "qMvar": 70.435
+ },
+ {
+  "bus": 72,
+  "name": "folded demand @ 72",
+  "pMw": 550.476,
+  "qMvar": 111.779
+ },
+ {
+  "bus": 73,
+  "name": "folded demand @ 73",
+  "pMw": 44.238,
+  "qMvar": 2.146
+ },
+ {
+  "bus": 74,
+  "name": "folded demand @ 74",
+  "pMw": 22.684,
+  "qMvar": 4.606
+ },
+ {
+  "bus": 75,
+  "name": "folded demand @ 75",
+  "pMw": 364.67,
+  "qMvar": 17.84
+ },
+ {
+  "bus": 76,
+  "name": "folded demand @ 76",
+  "pMw": 51.505,
+  "qMvar": 4.708
+ },
+ {
+  "bus": 77,
+  "name": "folded demand @ 77",
+  "pMw": 45.981,
+  "qMvar": 4.519
+ },
+ {
+  "bus": 78,
+  "name": "folded demand @ 78",
+  "pMw": 52.021,
+  "qMvar": 2.128
+ },
+ {
+  "bus": 79,
+  "name": "folded demand @ 79",
+  "pMw": 11.231,
+  "qMvar": 0.754
+ },
+ {
+  "bus": 80,
+  "name": "folded demand @ 80",
+  "pMw": 29.497,
+  "qMvar": 1.109
+ },
+ {
+  "bus": 81,
+  "name": "folded demand @ 81",
+  "pMw": 24.999,
+  "qMvar": 0.663
+ },
+ {
+  "bus": 82,
+  "name": "folded demand @ 82",
+  "pMw": 42.159,
+  "qMvar": 1.452
+ },
+ {
+  "bus": 83,
+  "name": "folded demand @ 83",
+  "pMw": 75.517,
+  "qMvar": 2.371
+ },
+ {
+  "bus": 84,
+  "name": "folded demand @ 84",
+  "pMw": 4.414,
+  "qMvar": 0.896
+ },
+ {
+  "bus": 85,
+  "name": "folded demand @ 85",
+  "pMw": 159.29,
+  "qMvar": 39.674
+ },
+ {
+  "bus": 86,
+  "name": "folded demand @ 86",
+  "pMw": 44.492,
+  "qMvar": 13.242
+ },
+ {
+  "bus": 87,
+  "name": "folded demand @ 87",
+  "pMw": 15.147,
+  "qMvar": 4.238
+ },
+ {
+  "bus": 88,
+  "name": "folded demand @ 88",
+  "pMw": 58.937,
+  "qMvar": 2.023
+ },
+ {
+  "bus": 90,
+  "name": "folded demand @ 90",
+  "pMw": 40.919,
+  "qMvar": 8.309
+ },
+ {
+  "bus": 91,
+  "name": "folded demand @ 91",
+  "pMw": 7.599,
+  "qMvar": 1.543
+ },
+ {
+  "bus": 92,
+  "name": "folded demand @ 92",
+  "pMw": 54.782,
+  "qMvar": 3.048
+ },
+ {
+  "bus": 93,
+  "name": "folded demand @ 93",
+  "pMw": 24.127,
+  "qMvar": 2.373
+ },
+ {
+  "bus": 94,
+  "name": "folded demand @ 94",
+  "pMw": 35.778,
+  "qMvar": 3.934
+ },
+ {
+  "bus": 95,
+  "name": "folded demand @ 95",
+  "pMw": 0.221,
+  "qMvar": 0.045
+ },
+ {
+  "bus": 96,
+  "name": "folded demand @ 96",
+  "pMw": 50.155,
+  "qMvar": 10.184
+ },
+ {
+  "bus": 97,
+  "name": "folded demand @ 97",
+  "pMw": 246.0,
+  "qMvar": 49.952
+ },
+ {
+  "bus": 98,
+  "name": "folded demand @ 98",
+  "pMw": 117.917,
+  "qMvar": 34.392
+ },
+ {
+  "bus": 99,
+  "name": "folded demand @ 99",
+  "pMw": 31.553,
+  "qMvar": 4.895
+ },
+ {
+  "bus": 100,
+  "name": "folded demand @ 100",
+  "pMw": 526.434,
+  "qMvar": 108.398
+ },
+ {
+  "bus": 101,
+  "name": "folded demand @ 101",
+  "pMw": 73.95,
+  "qMvar": 2.003
+ },
+ {
+  "bus": 102,
+  "name": "folded demand @ 102",
+  "pMw": 46.81,
+  "qMvar": 6.207
+ },
+ {
+  "bus": 103,
+  "name": "folded demand @ 103",
+  "pMw": 21.649,
+  "qMvar": 0.012
+ },
+ {
+  "bus": 104,
+  "name": "folded demand @ 104",
+  "pMw": 28.49,
+  "qMvar": 1.389
+ },
+ {
+  "bus": 105,
+  "name": "folded demand @ 105",
+  "pMw": 0.134,
+  "qMvar": 0.027
+ },
+ {
+  "bus": 106,
+  "name": "folded demand @ 106",
+  "pMw": 303.5,
+  "qMvar": 16.87
+ },
+ {
+  "bus": 107,
+  "name": "folded demand @ 107",
+  "pMw": 296.967,
+  "qMvar": 86.615
+ },
+ {
+  "bus": 108,
+  "name": "folded demand @ 108",
+  "pMw": 591.918,
+  "qMvar": 153.095
+ },
+ {
+  "bus": 109,
+  "name": "folded demand @ 109",
+  "pMw": 19.503,
+  "qMvar": 0.0
+ },
+ {
+  "bus": 110,
+  "name": "folded demand @ 110",
+  "pMw": 522.438,
+  "qMvar": 35.9
+ },
+ {
+  "bus": 111,
+  "name": "folded demand @ 111",
+  "pMw": 0.346,
+  "qMvar": 0.07
+ },
+ {
+  "bus": 112,
+  "name": "folded demand @ 112",
+  "pMw": 4.342,
+  "qMvar": 0.882
+ },
+ {
+  "bus": 113,
+  "name": "folded demand @ 113",
+  "pMw": 125.17,
+  "qMvar": 25.417
+ },
+ {
+  "bus": 114,
+  "name": "folded demand @ 114",
+  "pMw": 312.61,
+  "qMvar": 37.89
+ },
+ {
+  "bus": 115,
+  "name": "folded demand @ 115",
+  "pMw": 419.567,
+  "qMvar": 21.82
+ },
+ {
+  "bus": 116,
+  "name": "folded demand @ 116",
+  "pMw": 19.714,
+  "qMvar": 4.003
+ },
+ {
+  "bus": 117,
+  "name": "folded demand @ 117",
+  "pMw": 399.914,
+  "qMvar": 43.661
+ },
+ {
+  "bus": 118,
+  "name": "folded demand @ 118",
+  "pMw": 35.445,
+  "qMvar": 0.672
+ },
+ {
+  "bus": 120,
+  "name": "folded demand @ 120",
+  "pMw": 16.8,
+  "qMvar": 5.6
+ },
+ {
+  "bus": 121,
+  "name": "folded demand @ 121",
+  "pMw": 17.566,
+  "qMvar": 3.567
+ },
+ {
+  "bus": 122,
+  "name": "folded demand @ 122",
+  "pMw": 108.807,
+  "qMvar": 37.45
+ },
+ {
+  "bus": 123,
+  "name": "folded demand @ 123",
+  "pMw": 51.779,
+  "qMvar": 10.514
+ },
+ {
+  "bus": 124,
+  "name": "folded demand @ 124",
+  "pMw": 35.405,
+  "qMvar": 1.242
+ },
+ {
+  "bus": 125,
+  "name": "folded demand @ 125",
+  "pMw": 56.983,
+  "qMvar": 4.456
+ },
+ {
+  "bus": 127,
+  "name": "folded demand @ 127",
+  "pMw": 20.78,
+  "qMvar": 0.247
+ },
+ {
+  "bus": 128,
+  "name": "folded demand @ 128",
+  "pMw": 19.729,
+  "qMvar": 1.547
+ },
+ {
+  "bus": 129,
+  "name": "folded demand @ 129",
+  "pMw": 26.247,
+  "qMvar": 2.202
+ },
+ {
+  "bus": 130,
+  "name": "folded demand @ 130",
+  "pMw": 22.062,
+  "qMvar": 0.433
+ },
+ {
+  "bus": 131,
+  "name": "folded demand @ 131",
+  "pMw": 38.056,
+  "qMvar": 4.839
+ },
+ {
+  "bus": 132,
+  "name": "folded demand @ 132",
+  "pMw": 577.062,
+  "qMvar": 115.589
+ },
+ {
+  "bus": 133,
+  "name": "folded demand @ 133",
+  "pMw": 500.651,
+  "qMvar": 62.303
+ },
+ {
+  "bus": 134,
+  "name": "folded demand @ 134",
+  "pMw": 49.722,
+  "qMvar": 4.239
+ },
+ {
+  "bus": 135,
+  "name": "folded demand @ 135",
+  "pMw": 2.167,
+  "qMvar": 0.44
+ },
+ {
+  "bus": 136,
+  "name": "folded demand @ 136",
+  "pMw": 593.4,
+  "qMvar": 159.824
+ },
+ {
+  "bus": 137,
+  "name": "folded demand @ 137",
+  "pMw": 32.922,
+  "qMvar": 1.614
+ },
+ {
+  "bus": 138,
+  "name": "folded demand @ 138",
+  "pMw": 629.234,
+  "qMvar": 86.598
+ },
+ {
+  "bus": 139,
+  "name": "folded demand @ 139",
+  "pMw": 38.967,
+  "qMvar": 8.042
+ },
+ {
+  "bus": 140,
+  "name": "folded demand @ 140",
+  "pMw": 164.814,
+  "qMvar": 20.185
+ },
+ {
+  "bus": 141,
+  "name": "folded demand @ 141",
+  "pMw": 20.163,
+  "qMvar": 0.47
+ },
+ {
+  "bus": 142,
+  "name": "folded demand @ 142",
+  "pMw": 210.506,
+  "qMvar": 9.181
+ },
+ {
+  "bus": 143,
+  "name": "folded demand @ 143",
+  "pMw": 18.135,
+  "qMvar": 1.266
+ },
+ {
+  "bus": 144,
+  "name": "folded demand @ 144",
+  "pMw": 67.066,
+  "qMvar": 16.808
+ },
+ {
+  "bus": 145,
+  "name": "folded demand @ 145",
+  "pMw": 4.254,
+  "qMvar": 0.888
+ },
+ {
+  "bus": 146,
+  "name": "folded demand @ 146",
+  "pMw": 233.4,
+  "qMvar": 64.003
+ },
+ {
+  "bus": 147,
+  "name": "folded demand @ 147",
+  "pMw": 418.312,
+  "qMvar": 104.839
+ },
+ {
+  "bus": 149,
+  "name": "folded demand @ 149",
+  "pMw": 641.903,
+  "qMvar": 82.215
+ },
+ {
+  "bus": 150,
+  "name": "folded demand @ 150",
+  "pMw": 39.88,
+  "qMvar": 0.564
+ },
+ {
+  "bus": 151,
+  "name": "folded demand @ 151",
+  "pMw": 1.167,
+  "qMvar": 0.237
+ },
+ {
+  "bus": 152,
+  "name": "folded demand @ 152",
+  "pMw": 742.612,
+  "qMvar": 141.848
+ },
+ {
+  "bus": 153,
+  "name": "folded demand @ 153",
+  "pMw": 274.05,
+  "qMvar": 18.359
+ },
+ {
+  "bus": 154,
+  "name": "folded demand @ 154",
+  "pMw": 258.586,
+  "qMvar": 52.508
+ },
+ {
+  "bus": 155,
+  "name": "folded demand @ 155",
+  "pMw": 42.589,
+  "qMvar": 2.527
+ },
+ {
+  "bus": 156,
+  "name": "folded demand @ 156",
+  "pMw": 117.345,
+  "qMvar": 11.168
+ },
+ {
+  "bus": 157,
+  "name": "folded demand @ 157",
+  "pMw": 93.282,
+  "qMvar": 4.325
+ },
+ {
+  "bus": 159,
+  "name": "folded demand @ 159",
+  "pMw": 559.894,
+  "qMvar": 140.323
+ },
+ {
+  "bus": 160,
+  "name": "folded demand @ 160",
+  "pMw": 14.902,
+  "qMvar": 3.025
+ },
+ {
+  "bus": 161,
+  "name": "folded demand @ 161",
+  "pMw": 20.4,
+  "qMvar": 5.95
+ },
+ {
+  "bus": 162,
+  "name": "folded demand @ 162",
+  "pMw": 455.293,
+  "qMvar": 57.859
+ },
+ {
+  "bus": 163,
+  "name": "folded demand @ 163",
+  "pMw": 59.405,
+  "qMvar": 1.718
+ },
+ {
+  "bus": 164,
+  "name": "folded demand @ 164",
+  "pMw": 1.062,
+  "qMvar": 0.216
+ },
+ {
+  "bus": 165,
+  "name": "folded demand @ 165",
+  "pMw": 27.845,
+  "qMvar": 1.317
+ },
+ {
+  "bus": 166,
+  "name": "folded demand @ 166",
+  "pMw": 24.339,
+  "qMvar": 0.435
+ },
+ {
+  "bus": 167,
+  "name": "folded demand @ 167",
+  "pMw": 66.154,
+  "qMvar": 2.095
+ },
+ {
+  "bus": 168,
+  "name": "folded demand @ 168",
+  "pMw": 28.43,
+  "qMvar": 4.043
+ },
+ {
+  "bus": 169,
+  "name": "folded demand @ 169",
+  "pMw": 0.08,
+  "qMvar": 0.016
+ },
+ {
+  "bus": 170,
+  "name": "folded demand @ 170",
+  "pMw": 139.095,
+  "qMvar": 30.668
+ },
+ {
+  "bus": 171,
+  "name": "folded demand @ 171",
+  "pMw": 49.9,
+  "qMvar": 16.401
+ },
+ {
+  "bus": 172,
+  "name": "folded demand @ 172",
+  "pMw": 323.415,
+  "qMvar": 21.443
+ },
+ {
+  "bus": 173,
+  "name": "folded demand @ 173",
+  "pMw": 335.75,
+  "qMvar": 22.81
+ },
+ {
+  "bus": 174,
+  "name": "folded demand @ 174",
+  "pMw": 154.633,
+  "qMvar": 4.813
+ },
+ {
+  "bus": 175,
+  "name": "folded demand @ 175",
+  "pMw": 263.375,
+  "qMvar": 35.192
+ },
+ {
+  "bus": 176,
+  "name": "folded demand @ 176",
+  "pMw": 0.33,
+  "qMvar": 0.067
+ },
+ {
+  "bus": 177,
+  "name": "folded demand @ 177",
+  "pMw": 186.96,
+  "qMvar": 52.242
+ },
+ {
+  "bus": 178,
+  "name": "folded demand @ 178",
+  "pMw": 450.374,
+  "qMvar": 53.576
+ },
+ {
+  "bus": 179,
+  "name": "folded demand @ 179",
+  "pMw": 334.753,
+  "qMvar": 57.627
+ },
+ {
+  "bus": 180,
+  "name": "folded demand @ 180",
+  "pMw": 42.069,
+  "qMvar": 3.692
+ },
+ {
+  "bus": 181,
+  "name": "folded demand @ 181",
+  "pMw": 53.08,
+  "qMvar": 2.865
+ },
+ {
+  "bus": 182,
+  "name": "folded demand @ 182",
+  "pMw": 53.413,
+  "qMvar": 7.228
+ },
+ {
+  "bus": 183,
+  "name": "folded demand @ 183",
+  "pMw": 350.114,
+  "qMvar": 44.044
+ },
+ {
+  "bus": 184,
+  "name": "folded demand @ 184",
+  "pMw": 265.858,
+  "qMvar": 78.315
+ },
+ {
+  "bus": 185,
+  "name": "folded demand @ 185",
+  "pMw": 354.8,
+  "qMvar": 98.108
+ },
+ {
+  "bus": 186,
+  "name": "folded demand @ 186",
+  "pMw": 595.85,
+  "qMvar": 120.993
+ },
+ {
+  "bus": 187,
+  "name": "folded demand @ 187",
+  "pMw": 48.759,
+  "qMvar": 11.156
+ },
+ {
+  "bus": 188,
+  "name": "folded demand @ 188",
+  "pMw": 49.9,
+  "qMvar": 16.401
+ },
+ {
+  "bus": 189,
+  "name": "folded demand @ 189",
+  "pMw": 53.011,
+  "qMvar": 13.286
+ },
+ {
+  "bus": 190,
+  "name": "folded demand @ 190",
+  "pMw": 22.282,
+  "qMvar": 4.524
+ },
+ {
+  "bus": 192,
+  "name": "folded demand @ 192",
+  "pMw": 483.034,
+  "qMvar": 98.084
+ },
+ {
+  "bus": 193,
+  "name": "folded demand @ 193",
+  "pMw": 20.013,
+  "qMvar": 0.194
+ },
+ {
+  "bus": 194,
+  "name": "folded demand @ 194",
+  "pMw": 561.564,
+  "qMvar": 88.803
+ },
+ {
+  "bus": 195,
+  "name": "folded demand @ 195",
+  "pMw": 49.224,
+  "qMvar": 9.995
+ },
+ {
+  "bus": 196,
+  "name": "folded demand @ 196",
+  "pMw": 147.3,
+  "qMvar": 42.963
+ },
+ {
+  "bus": 197,
+  "name": "folded demand @ 197",
+  "pMw": 259.616,
+  "qMvar": 52.717
+ },
+ {
+  "bus": 198,
+  "name": "folded demand @ 198",
+  "pMw": 8.72,
+  "qMvar": 1.771
+ },
+ {
+  "bus": 199,
+  "name": "folded demand @ 199",
+  "pMw": 9.068,
+  "qMvar": 1.841
+ },
+ {
+  "bus": 200,
+  "name": "folded demand @ 200",
+  "pMw": 83.14,
+  "qMvar": 5.609
+ },
+ {
+  "bus": 201,
+  "name": "folded demand @ 201",
+  "pMw": 103.323,
+  "qMvar": 8.599
+ },
+ {
+  "bus": 202,
+  "name": "folded demand @ 202",
+  "pMw": 147.094,
+  "qMvar": 13.498
+ },
+ {
+  "bus": 203,
+  "name": "folded demand @ 203",
+  "pMw": 12.612,
+  "qMvar": 0.452
+ },
+ {
+  "bus": 204,
+  "name": "folded demand @ 204",
+  "pMw": 486.671,
+  "qMvar": 141.429
+ },
+ {
+  "bus": 205,
+  "name": "folded demand @ 205",
+  "pMw": 167.058,
+  "qMvar": 33.995
+ },
+ {
+  "bus": 206,
+  "name": "folded demand @ 206",
+  "pMw": 159.409,
+  "qMvar": 32.369
+ },
+ {
+  "bus": 207,
+  "name": "folded demand @ 207",
+  "pMw": 294.652,
+  "qMvar": 101.163
+ },
+ {
+  "bus": 208,
+  "name": "folded demand @ 208",
+  "pMw": 109.05,
+  "qMvar": 10.79
+ },
+ {
+  "bus": 209,
+  "name": "folded demand @ 209",
+  "pMw": 404.0,
+  "qMvar": 117.833
+ },
+ {
+  "bus": 210,
+  "name": "folded demand @ 210",
+  "pMw": 444.593,
+  "qMvar": 29.803
+ },
+ {
+  "bus": 211,
+  "name": "folded demand @ 211",
+  "pMw": 374.526,
+  "qMvar": 76.051
+ },
+ {
+  "bus": 212,
+  "name": "folded demand @ 212",
+  "pMw": 105.67,
+  "qMvar": 16.923
+ },
+ {
+  "bus": 213,
+  "name": "folded demand @ 213",
+  "pMw": 94.099,
+  "qMvar": 3.075
+ },
+ {
+  "bus": 214,
+  "name": "folded demand @ 214",
+  "pMw": 86.16,
+  "qMvar": 10.797
+ },
+ {
+  "bus": 215,
+  "name": "folded demand @ 215",
+  "pMw": 254.644,
+  "qMvar": 14.791
+ },
+ {
+  "bus": 216,
+  "name": "folded demand @ 216",
+  "pMw": 230.656,
+  "qMvar": 57.808
+ },
+ {
+  "bus": 217,
+  "name": "folded demand @ 217",
+  "pMw": 33.289,
+  "qMvar": 1.834
+ },
+ {
+  "bus": 218,
+  "name": "folded demand @ 218",
+  "pMw": 38.85,
+  "qMvar": 0.986
+ },
+ {
+  "bus": 219,
+  "name": "folded demand @ 219",
+  "pMw": 26.879,
+  "qMvar": 5.458
+ },
+ {
+  "bus": 220,
+  "name": "folded demand @ 220",
+  "pMw": 7.195,
+  "qMvar": 1.461
+ },
+ {
+  "bus": 221,
+  "name": "folded demand @ 221",
+  "pMw": 191.162,
+  "qMvar": 55.756
+ },
+ {
+  "bus": 222,
+  "name": "folded demand @ 222",
+  "pMw": 164.841,
+  "qMvar": 33.583
+ },
+ {
+  "bus": 223,
+  "name": "folded demand @ 223",
+  "pMw": 383.014,
+  "qMvar": 95.992
+ },
+ {
+  "bus": 224,
+  "name": "folded demand @ 224",
+  "pMw": 248.44,
+  "qMvar": 22.891
+ },
+ {
+  "bus": 225,
+  "name": "folded demand @ 225",
+  "pMw": 344.171,
+  "qMvar": 28.144
+ },
+ {
+  "bus": 226,
+  "name": "folded demand @ 226",
+  "pMw": 42.741,
+  "qMvar": 8.679
+ },
+ {
+  "bus": 227,
+  "name": "folded demand @ 227",
+  "pMw": 145.46,
+  "qMvar": 39.27
+ },
+ {
+  "bus": 228,
+  "name": "folded demand @ 228",
+  "pMw": 84.591,
+  "qMvar": 3.567
+ },
+ {
+  "bus": 229,
+  "name": "folded demand @ 229",
+  "pMw": 84.701,
+  "qMvar": 10.716
+ },
+ {
+  "bus": 230,
+  "name": "folded demand @ 230",
+  "pMw": 2.142,
+  "qMvar": 0.435
+ },
+ {
+  "bus": 231,
+  "name": "folded demand @ 231",
+  "pMw": 46.128,
+  "qMvar": 1.315
+ },
+ {
+  "bus": 232,
+  "name": "folded demand @ 232",
+  "pMw": 365.458,
+  "qMvar": 57.944
+ },
+ {
+  "bus": 233,
+  "name": "folded demand @ 233",
+  "pMw": 177.236,
+  "qMvar": 32.834
+ },
+ {
+  "bus": 234,
+  "name": "folded demand @ 234",
+  "pMw": 0.433,
+  "qMvar": 0.088
+ },
+ {
+  "bus": 235,
+  "name": "folded demand @ 235",
+  "pMw": 130.407,
+  "qMvar": 5.02
+ },
+ {
+  "bus": 236,
+  "name": "folded demand @ 236",
+  "pMw": 206.68,
+  "qMvar": 51.542
+ },
+ {
+  "bus": 237,
+  "name": "folded demand @ 237",
+  "pMw": 41.992,
+  "qMvar": 3.32
+ },
+ {
+  "bus": 238,
+  "name": "folded demand @ 238",
+  "pMw": 387.753,
+  "qMvar": 113.095
+ },
+ {
+  "bus": 239,
+  "name": "folded demand @ 239",
+  "pMw": 136.2,
+  "qMvar": 29.334
+ },
+ {
+  "bus": 240,
+  "name": "folded demand @ 240",
+  "pMw": 3.023,
+  "qMvar": 0.614
+ },
+ {
+  "bus": 241,
+  "name": "folded demand @ 241",
+  "pMw": 104.712,
+  "qMvar": 26.968
+ },
+ {
+  "bus": 242,
+  "name": "folded demand @ 242",
+  "pMw": 40.1,
+  "qMvar": 10.05
+ },
+ {
+  "bus": 243,
+  "name": "folded demand @ 243",
+  "pMw": 164.847,
+  "qMvar": 13.406
+ },
+ {
+  "bus": 244,
+  "name": "folded demand @ 244",
+  "pMw": 232.233,
+  "qMvar": 67.735
+ },
+ {
+  "bus": 245,
+  "name": "folded demand @ 245",
+  "pMw": 61.808,
+  "qMvar": 2.697
+ },
+ {
+  "bus": 246,
+  "name": "folded demand @ 246",
+  "pMw": 47.7,
+  "qMvar": 17.996
+ },
+ {
+  "bus": 247,
+  "name": "folded demand @ 247",
+  "pMw": 78.06,
+  "qMvar": 6.87
+ },
+ {
+  "bus": 248,
+  "name": "folded demand @ 248",
+  "pMw": 39.392,
+  "qMvar": 0.204
+ },
+ {
+  "bus": 249,
+  "name": "folded demand @ 249",
+  "pMw": 296.188,
+  "qMvar": 73.722
+ },
+ {
+  "bus": 250,
+  "name": "folded demand @ 250",
+  "pMw": 672.754,
+  "qMvar": 61.944
+ },
+ {
+  "bus": 251,
+  "name": "folded demand @ 251",
+  "pMw": 130.495,
+  "qMvar": 30.728
+ },
+ {
+  "bus": 252,
+  "name": "folded demand @ 252",
+  "pMw": 5.805,
+  "qMvar": 1.179
+ },
+ {
+  "bus": 253,
+  "name": "folded demand @ 253",
+  "pMw": 0.106,
+  "qMvar": 0.022
+ },
+ {
+  "bus": 254,
+  "name": "folded demand @ 254",
+  "pMw": 147.874,
+  "qMvar": 5.26
+ },
+ {
+  "bus": 255,
+  "name": "folded demand @ 255",
+  "pMw": 0.32,
+  "qMvar": 0.065
+ },
+ {
+  "bus": 256,
+  "name": "folded demand @ 256",
+  "pMw": 58.343,
+  "qMvar": 2.802
+ },
+ {
+  "bus": 257,
+  "name": "folded demand @ 257",
+  "pMw": 5.32,
+  "qMvar": 0.0
+ },
+ {
+  "bus": 258,
+  "name": "folded demand @ 258",
+  "pMw": 87.021,
+  "qMvar": 3.162
+ },
+ {
+  "bus": 259,
+  "name": "folded demand @ 259",
+  "pMw": 673.761,
+  "qMvar": 200.614
+ },
+ {
+  "bus": 260,
+  "name": "folded demand @ 260",
+  "pMw": 498.919,
+  "qMvar": 13.98
+ },
+ {
+  "bus": 261,
+  "name": "folded demand @ 261",
+  "pMw": 2.461,
+  "qMvar": 0.5
+ },
+ {
+  "bus": 262,
+  "name": "folded demand @ 262",
+  "pMw": 301.476,
+  "qMvar": 75.557
+ },
+ {
+  "bus": 263,
+  "name": "folded demand @ 263",
+  "pMw": 29.592,
+  "qMvar": 1.516
+ },
+ {
+  "bus": 264,
+  "name": "folded demand @ 264",
+  "pMw": 197.426,
+  "qMvar": 21.322
+ },
+ {
+  "bus": 265,
+  "name": "folded demand @ 265",
+  "pMw": 95.383,
+  "qMvar": 4.359
+ },
+ {
+  "bus": 266,
+  "name": "folded demand @ 266",
+  "pMw": 379.192,
+  "qMvar": 95.035
+ },
+ {
+  "bus": 267,
+  "name": "folded demand @ 267",
+  "pMw": 353.832,
+  "qMvar": 89.376
+ },
+ {
+  "bus": 268,
+  "name": "folded demand @ 268",
+  "pMw": 326.975,
+  "qMvar": 70.535
+ },
+ {
+  "bus": 269,
+  "name": "folded demand @ 269",
+  "pMw": 392.775,
+  "qMvar": 40.531
+ },
+ {
+  "bus": 271,
+  "name": "folded demand @ 271",
+  "pMw": 51.562,
+  "qMvar": 2.872
+ },
+ {
+  "bus": 272,
+  "name": "folded demand @ 272",
+  "pMw": 53.827,
+  "qMvar": 4.544
+ },
+ {
+  "bus": 273,
+  "name": "folded demand @ 273",
+  "pMw": 50.869,
+  "qMvar": 5.377
+ },
+ {
+  "bus": 274,
+  "name": "folded demand @ 274",
+  "pMw": 20.641,
+  "qMvar": 4.191
+ },
+ {
+  "bus": 275,
+  "name": "folded demand @ 275",
+  "pMw": 514.125,
+  "qMvar": 149.953
+ },
+ {
+  "bus": 276,
+  "name": "folded demand @ 276",
+  "pMw": 503.821,
+  "qMvar": 91.19
+ },
+ {
+  "bus": 277,
+  "name": "folded demand @ 277",
+  "pMw": 18.717,
+  "qMvar": 3.801
+ },
+ {
+  "bus": 278,
+  "name": "folded demand @ 278",
+  "pMw": 171.676,
+  "qMvar": 4.955
+ },
+ {
+  "bus": 279,
+  "name": "folded demand @ 279",
+  "pMw": 4.002,
+  "qMvar": 0.813
+ },
+ {
+  "bus": 280,
+  "name": "folded demand @ 280",
+  "pMw": 30.343,
+  "qMvar": 0.0
+ },
+ {
+  "bus": 281,
+  "name": "folded demand @ 281",
+  "pMw": 67.154,
+  "qMvar": 8.095
+ },
+ {
+  "bus": 283,
+  "name": "folded demand @ 283",
+  "pMw": 83.066,
+  "qMvar": 16.867
+ },
+ {
+  "bus": 284,
+  "name": "folded demand @ 284",
+  "pMw": 288.043,
+  "qMvar": 9.367
+ },
+ {
+  "bus": 285,
+  "name": "folded demand @ 285",
+  "pMw": 159.773,
+  "qMvar": 46.601
+ },
+ {
+  "bus": 286,
+  "name": "folded demand @ 286",
+  "pMw": 23.212,
+  "qMvar": 1.917
+ },
+ {
+  "bus": 287,
+  "name": "folded demand @ 287",
+  "pMw": 180.2,
+  "qMvar": 52.558
+ },
+ {
+  "bus": 288,
+  "name": "folded demand @ 288",
+  "pMw": 65.156,
+  "qMvar": 5.298
+ },
+ {
+  "bus": 289,
+  "name": "folded demand @ 289",
+  "pMw": 1.246,
+  "qMvar": 0.253
+ },
+ {
+  "bus": 290,
+  "name": "folded demand @ 290",
+  "pMw": 161.937,
+  "qMvar": 7.97
+ },
+ {
+  "bus": 291,
+  "name": "folded demand @ 291",
+  "pMw": 268.667,
+  "qMvar": 13.749
+ },
+ {
+  "bus": 292,
+  "name": "folded demand @ 292",
+  "pMw": 670.21,
+  "qMvar": 31.114
+ },
+ {
+  "bus": 293,
+  "name": "folded demand @ 293",
+  "pMw": 387.578,
+  "qMvar": 112.167
+ },
+ {
+  "bus": 294,
+  "name": "folded demand @ 294",
+  "pMw": 220.8,
+  "qMvar": 64.4
+ },
+ {
+  "bus": 295,
+  "name": "folded demand @ 295",
+  "pMw": 55.726,
+  "qMvar": 13.966
+ },
+ {
+  "bus": 296,
+  "name": "folded demand @ 296",
+  "pMw": 174.5,
+  "qMvar": 50.896
+ },
+ {
+  "bus": 297,
+  "name": "folded demand @ 297",
+  "pMw": 405.963,
+  "qMvar": 41.795
+ },
+ {
+  "bus": 298,
+  "name": "folded demand @ 298",
+  "pMw": 264.455,
+  "qMvar": 51.675
+ },
+ {
+  "bus": 299,
+  "name": "folded demand @ 299",
+  "pMw": 28.319,
+  "qMvar": 3.091
+ },
+ {
+  "bus": 300,
+  "name": "folded demand @ 300",
+  "pMw": 43.78,
+  "qMvar": 1.006
+ },
+ {
+  "bus": 301,
+  "name": "folded demand @ 301",
+  "pMw": 244.4,
+  "qMvar": 73.906
+ },
+ {
+  "bus": 302,
+  "name": "folded demand @ 302",
+  "pMw": 211.353,
+  "qMvar": 52.97
+ },
+ {
+  "bus": 303,
+  "name": "folded demand @ 303",
+  "pMw": 52.987,
+  "qMvar": 3.367
+ },
+ {
+  "bus": 304,
+  "name": "folded demand @ 304",
+  "pMw": 69.14,
+  "qMvar": 2.95
+ },
+ {
+  "bus": 305,
+  "name": "folded demand @ 305",
+  "pMw": 172.83,
+  "qMvar": 21.952
+ },
+ {
+  "bus": 306,
+  "name": "folded demand @ 306",
+  "pMw": 371.987,
+  "qMvar": 80.493
+ },
+ {
+  "bus": 307,
+  "name": "folded demand @ 307",
+  "pMw": 489.92,
+  "qMvar": 138.139
+ },
+ {
+  "bus": 308,
+  "name": "folded demand @ 308",
+  "pMw": 29.106,
+  "qMvar": 5.91
+ },
+ {
+  "bus": 309,
+  "name": "folded demand @ 309",
+  "pMw": 50.2,
+  "qMvar": 14.642
+ },
+ {
+  "bus": 310,
+  "name": "folded demand @ 310",
+  "pMw": 70.506,
+  "qMvar": 3.758
+ },
+ {
+  "bus": 311,
+  "name": "folded demand @ 311",
+  "pMw": 622.542,
+  "qMvar": 50.534
+ },
+ {
+  "bus": 312,
+  "name": "folded demand @ 312",
+  "pMw": 35.13,
+  "qMvar": 7.133
+ },
+ {
+  "bus": 313,
+  "name": "folded demand @ 313",
+  "pMw": 30.7,
+  "qMvar": 8.954
+ },
+ {
+  "bus": 314,
+  "name": "folded demand @ 314",
+  "pMw": 287.1,
+  "qMvar": 73.964
+ },
+ {
+  "bus": 315,
+  "name": "folded demand @ 315",
+  "pMw": 52.395,
+  "qMvar": 4.182
+ },
+ {
+  "bus": 316,
+  "name": "folded demand @ 316",
+  "pMw": 218.5,
+  "qMvar": 63.729
+ }
+]

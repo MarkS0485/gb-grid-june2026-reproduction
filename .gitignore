@@ -1,0 +1,5 @@
+# build artifacts / local only
+gda-solves-full.zip
+__pycache__/
+*.pyc
+.DS_Store
