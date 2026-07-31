@@ -21,6 +21,10 @@ system was not materially stressed. The one real signal of the week, elevated fr
 Why you cannot simply have doctored the data to hide stress - the cross-connection makes it
 tamper-evident - is the subject of the second report.
 
+A note on who built this and why it is reproduction-first rather than credentials-first is in
+[ABOUT.md](ABOUT.md): I am a high-performance-computing engineer, not an electrical engineer, and the
+whole point is that you do not have to take my word for any of it - you can run it.
+
 ## The two reports
 
 - [reports/The Wrong Scandal.md](reports/The%20Wrong%20Scandal.md) - the argument: defend the operator
