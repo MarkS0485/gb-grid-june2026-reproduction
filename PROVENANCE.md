@@ -27,9 +27,12 @@ reproduce the result. See `gridsim/INSTRUCTIONS.md`.
 
 ## The pre-registration integrity claim
 
-The study "The Wrong Scandal" stands on was pre-registered: the method was sealed to public version
+The study "The Wrong Scandal" stands on was pre-registered: the method was sealed to version
 control BEFORE any result was computed, so the method could not have been tuned to the answer. The
-integrity claim is the commit ordering, and it is checkable in the public TSGB-2026 repository history:
+integrity claim is the ordering of these commits in the author's version control; the hashes and
+timestamps are recorded here as attestation. The sealed method (0022) and the forensic note (0023)
+are themselves included in full in this bundle (see below), so you can read exactly what was
+pre-registered and check it against the results:
 
 - Method sealed: commit `7d51426`, 2026-07-25 05:13:53 +0100
   (`Policy/0022 - METHOD ... (Pre-Registration).md`).
@@ -45,9 +48,9 @@ The method-sealing commits precede the result-producing commit by roughly two ho
 correction was made in the direction of making the operator look worse and the instrument look weaker,
 in writing, before the results were known.
 
-Public history to verify against:
-- Method: https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0022%20-%20METHOD%20-%20June%202026%20Heat-Window%20Forensic%20Protocol%20(Pre-Registration).md
-- Forensic note (full tables): https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md
+The two documents this claim rests on are included in full in this bundle:
+- Method (0022): [corpus/Policy/0022 - METHOD - June 2026 Heat-Window Forensic Protocol (Pre-Registration).md](corpus/Policy/0022%20-%20METHOD%20-%20June%202026%20Heat-Window%20Forensic%20Protocol%20%28Pre-Registration%29.md)
+- Forensic note, full tables (0023): [corpus/Policy/0023 - The 22-26 June 2026 Heat Window - Data Quality and System Stress Against a Trailing-12-Month Baseline.md](corpus/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md)
 
 ## Honest limits
 

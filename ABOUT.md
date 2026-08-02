@@ -25,10 +25,9 @@ engineering discipline that high-performance computing demands, and run them hon
 there is any, is in the assembly and the scale and the refusal to show a number that a physical law,
 checked independently, does not admit - not in the physics, which is old and settled.
 
-That is also why the deeper work is unpublished. The full method is written up as a suite of papers -
-they are public, in the corpus, at
-https://github.com/MarkS0485/TSGB-2026/tree/main/EFD - drafted to the standard of a peer-reviewed
-venue. None of them has been submitted. The reason is simple and it is not modesty: I have no formal
+That is also why the deeper work is unpublished. The full method is written up as a suite of papers,
+Electrical Fluid Dynamics, drafted to the standard of a peer-reviewed venue and held in the author's
+wider corpus; they are not part of this public bundle. None of them has been submitted. The reason is simple and it is not modesty: I have no formal
 electrical-engineering training, and so no route into an electrical-engineering publication venue - no
 institution, no supervisor, no standing to put a manuscript in front of a power-systems journal and be
 read rather than dismissed on sight. The peer-review pathway is closed to me by credential, not by

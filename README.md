@@ -33,6 +33,12 @@ whole point is that you do not have to take my word for any of it - you can run 
   reconstruction from public data is tamper-evident: you cannot alter a few entries in one database,
   because the grid is published many times over and bound together by physics.
 
+The pre-registered study these reports stand on is included in full under [corpus/Policy/](corpus/Policy/):
+the sealed method,
+[0022 - METHOD - June 2026 Heat-Window Forensic Protocol (Pre-Registration)](corpus/Policy/0022%20-%20METHOD%20-%20June%202026%20Heat-Window%20Forensic%20Protocol%20%28Pre-Registration%29.md),
+and the forensic note with the full results tables,
+[0023 - The 22-26 June 2026 Heat Window](corpus/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md).
+
 ## Reproduce it
 
 1. Fastest, no dependencies beyond Python:
@@ -55,6 +61,10 @@ whole point is that you do not have to take my word for any of it - you can run 
 
 ```
 reports/              the two reports
+corpus/
+  Policy/             the pre-registered method (0022) and the forensic note with full tables (0023),
+                      plus the supporting policy essays the reports cite
+  Electrical Explainers/, Creative Outlet/, NCSC/   further cited pieces, included so the bundle stands alone
 solves/
   plain-text/         the window-day solves as CSV + measurement JSON (+ SHA-256), no parquet needed
   parquet/            the same solves as parquet, with per-day provenance manifests
@@ -74,11 +84,13 @@ release asset on this repository rather than in the tree.
 
 ## Provenance and honesty
 
-The study these reports stand on was pre-registered: the method was sealed to public version control
-before any result was computed, and the commit ordering is checkable in the TSGB-2026 repository.
-Details, and the honest limits of the instrument (pseudo-measurements, a reduced network, a relative
-consistency index), are in [PROVENANCE.md](PROVENANCE.md). The reconstruction was produced by a private
-system (GDA) from public data; GDA is not released, but everything needed to check the result is here.
+The study these reports stand on was pre-registered: the method was sealed to version control before
+any result was computed. The pre-registered method (0022) and the forensic note with the full results
+tables (0023) are included in full in this bundle under [corpus/Policy/](corpus/Policy/), and the
+commit ordering behind the integrity claim is recorded in [PROVENANCE.md](PROVENANCE.md), along with
+the honest limits of the instrument (pseudo-measurements, a reduced network, a relative consistency
+index). The reconstruction was produced by a private system (GDA) from public data; GDA is not
+released, but everything needed to check the result is here.
 
 ## Data and licence
 

@@ -7,7 +7,7 @@
 **Target:** The July 2026 political and press campaign alleging that the National Energy System Operator (NESO) hid a near-blackout during the 22-26 June 2026 heatwave and falsified its records - and, standing behind it, the regulatory framework that made the operator a scapegoat available for exactly this use.
 **Author:** M. Shirley, Independent Engineer & Inventor
 **Status:** Independent analysis and polemic - not adopted regulation, not a submission to any process, not an allegation of wrongdoing against any individual.
-**Companion:** [The 22-26 June 2026 Heat Window - Data Quality and System Stress Against a Trailing-12-Month Baseline](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md) - the pre-registered forensic note this blog stands on.
+**Companion:** [The 22-26 June 2026 Heat Window - Data Quality and System Stress Against a Trailing-12-Month Baseline](../corpus/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md) - the pre-registered forensic note this blog stands on.
 **Date:** 30 July 2026
 
 ---
@@ -121,7 +121,7 @@ Here is the part that separates this from a man with a spreadsheet and a grievan
 
 The single easiest way to lie with data is to compute a hundred things, notice which three support the story you already wanted to tell, and publish those three. It is so easy that most people who do it do not even know they are doing it; the human mind is a machine for finding the pattern it went looking for. The only known defence against it is to decide, in writing, *before you look at any result*, exactly what you are going to measure, exactly how, and exactly what would count as a finding - and then to timestamp that decision in a way you cannot later alter. That is pre-registration, and it is the reason this study can be trusted where a press leak cannot.
 
-The full protocol lives in a companion document, [0022 - the June 2026 Heat-Window Forensic Protocol](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0022%20-%20METHOD%20-%20June%202026%20Heat-Window%20Forensic%20Protocol%20%28Pre-Registration%29.md). It was sealed to version control by a commit that predates, in the repository history, the commit that computed a single comparison. The commit ordering *is* the integrity claim. The method-sealing commit came first; the result-producing commit came second; the timestamps are public and immutable. I could not have tuned the method to the answer even if I had wanted to, because the method was frozen before the answer existed. If you want to attack this study, that is where you attack it - go to the history, check the ordering, and if the seal came after the result, I am a fraud and you should say so. It did not.
+The full protocol lives in a companion document, [0022 - the June 2026 Heat-Window Forensic Protocol](../corpus/Policy/0022%20-%20METHOD%20-%20June%202026%20Heat-Window%20Forensic%20Protocol%20%28Pre-Registration%29.md). It was sealed to version control by a commit that predates, in the repository history, the commit that computed a single comparison. The commit ordering *is* the integrity claim. The method-sealing commit came first; the result-producing commit came second; the timestamps are public and immutable. I could not have tuned the method to the answer even if I had wanted to, because the method was frozen before the answer existed. If you want to attack this study, that is where you attack it - go to the history, check the ordering, and if the seal came after the result, I am a fraud and you should say so. It did not.
 
 What the sealed method committed me to, in brief:
 
@@ -268,7 +268,7 @@ That is why the cover-up story is not just factually wrong but *structurally* wr
 
 ## 13. The Man In The Chair
 
-There is a sketch in my own creative folder - [The Inertia Inquiry](https://github.com/MarkS0485/TSGB-2026/blob/main/Creative%20Outlet/0002%20-%20Clarke%20and%20Dawe%20-%20The%20Inertia%20Inquiry.md), written in the manner of Clarke and Dawe - and it is, I have come to realise, the truest single thing I have written about where NESO sits. Two chairs. No set. One country without power. An interviewer, and a man from the operator, being walked line by line through a blackout. And the genius of the form - the reason Clarke and Dawe endures - is that the man in the chair is not a villain. He is not shifty. He is not even embarrassed. He is a decent, competent, entirely sincere official, doing his level best to answer for a set of decisions he did not make, in a vocabulary that has been carefully engineered to distribute accountability, in his own words, "to a point where it becomes mathematically undetectable."
+There is a sketch in my own creative folder - [The Inertia Inquiry](../corpus/Creative%20Outlet/0002%20-%20Clarke%20and%20Dawe%20-%20The%20Inertia%20Inquiry.md), written in the manner of Clarke and Dawe - and it is, I have come to realise, the truest single thing I have written about where NESO sits. Two chairs. No set. One country without power. An interviewer, and a man from the operator, being walked line by line through a blackout. And the genius of the form - the reason Clarke and Dawe endures - is that the man in the chair is not a villain. He is not shifty. He is not even embarrassed. He is a decent, competent, entirely sincere official, doing his level best to answer for a set of decisions he did not make, in a vocabulary that has been carefully engineered to distribute accountability, in his own words, "to a point where it becomes mathematically undetectable."
 
 That is how I see NESO. That is the position they are in. Not the liar in the dock. The man in the chair.
 
@@ -436,7 +436,7 @@ Start naming the framework that is building the real one in plain sight.
 mark@twinscrollgridbalancer.co.uk
 30 July 2026
 
-*Author, GDA Responsible Disclosure (11 April 2026); briefed NCSC, 19 April 2026. This blog stands on the pre-registered forensic note [0023](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md), whose method was sealed to version control before any result was computed, and whose 17,328 solved grid states are published in full for independent verification. The physical findings here are reproducible by any party. The conduct allegations referenced are out of scope of that instrument and are neither asserted nor denied.*
+*Author, GDA Responsible Disclosure (11 April 2026); briefed NCSC, 19 April 2026. This blog stands on the pre-registered forensic note [0023](../corpus/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md), whose method was sealed to version control before any result was computed, and whose 17,328 solved grid states are published in full for independent verification. The physical findings here are reproducible by any party. The conduct allegations referenced are out of scope of that instrument and are neither asserted nor denied.*
 
 ---
 
@@ -446,28 +446,28 @@ This blog is the polemic companion to the neutral forensic note. It defends the 
 
 ### The Evidence It Stands On
 
-- [The 22-26 June 2026 Heat Window - Data Quality and System Stress](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md) - the pre-registered forensic note; the sealed method, the two nulls, the full results tables.
-- [June 2026 Heat-Window Forensic Protocol (Pre-Registration)](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0022%20-%20METHOD%20-%20June%202026%20Heat-Window%20Forensic%20Protocol%20%28Pre-Registration%29.md) - the method, sealed by commit before any result was computed; the integrity claim is the commit ordering.
+- [The 22-26 June 2026 Heat Window - Data Quality and System Stress](../corpus/Policy/0023%20-%20The%2022-26%20June%202026%20Heat%20Window%20-%20Data%20Quality%20and%20System%20Stress%20Against%20a%20Trailing-12-Month%20Baseline.md) - the pre-registered forensic note; the sealed method, the two nulls, the full results tables.
+- [June 2026 Heat-Window Forensic Protocol (Pre-Registration)](../corpus/Policy/0022%20-%20METHOD%20-%20June%202026%20Heat-Window%20Forensic%20Protocol%20%28Pre-Registration%29.md) - the method, sealed by commit before any result was computed; the integrity claim is the commit ordering.
 
 ### The Framework This Prosecutes
 
-- [ESO - Governance Without Physics](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0007%20-%20ESO%20-%20Governance%20Without%20Physics.md) - the accountability mirage; why an operator embedded in a diffuse-responsibility framework cannot be the sole author of a system outcome.
-- [The 1,800 Megawatt Fiction](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0021%20-%20The%201%2C800%20Megawatt%20Fiction.md) - the design basis half the real hazard; Dogger Bank at 3,600 MW; the 720 GVA.s honest floor against the ~102 the framework normalises.
-- [The Managed Collapse of Inertia](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0006%20-%20The%20Managed%20Collapse%20of%20Inertia.md) - the eightfold RoCoF relaxation; FRCR 2025; why response cannot replace stored mass.
-- [The 2050 Delusion](https://github.com/MarkS0485/TSGB-2026/blob/main/Policy/0005%20-%20The%202050%20Delusion.md) - the RoCoF wall moving toward the operating point.
+- [ESO - Governance Without Physics](../corpus/Policy/0007%20-%20ESO%20-%20Governance%20Without%20Physics.md) - the accountability mirage; why an operator embedded in a diffuse-responsibility framework cannot be the sole author of a system outcome.
+- [The 1,800 Megawatt Fiction](../corpus/Policy/0021%20-%20The%201%2C800%20Megawatt%20Fiction.md) - the design basis half the real hazard; Dogger Bank at 3,600 MW; the 720 GVA.s honest floor against the ~102 the framework normalises.
+- [The Managed Collapse of Inertia](../corpus/Policy/0006%20-%20The%20Managed%20Collapse%20of%20Inertia.md) - the eightfold RoCoF relaxation; FRCR 2025; why response cannot replace stored mass.
+- [The 2050 Delusion](../corpus/Policy/0005%20-%20The%202050%20Delusion.md) - the RoCoF wall moving toward the operating point.
 
 ### The Instrument
 
-- [GDA Responsible Disclosure Report](https://github.com/MarkS0485/TSGB-2026/blob/main/NCSC/GDA/0001%20-%20GDA%20Responsible%20Disclosure%20Report.md) - the reconstruction system, disclosed 11 April 2026.
-- [On Presumed Open, Quietly Adopted](https://github.com/MarkS0485/TSGB-2026/blob/main/NCSC/GDA/0004%20-%20Angry%20Blog%20-%20Presumed%20Open%20and%20the%20Disclosure%20That%20Vanished.md) - the prior angry blog; the same instrument, the same refusal to let a process bury the truth of its own inputs.
+- GDA Responsible Disclosure Report - the reconstruction system, disclosed 11 April 2026.
+- [On Presumed Open, Quietly Adopted](../corpus/NCSC/GDA/0004%20-%20Angry%20Blog%20-%20Presumed%20Open%20and%20the%20Disclosure%20That%20Vanished.md) - the prior angry blog; the same instrument, the same refusal to let a process bury the truth of its own inputs.
 
 ### The Framing
 
-- [The Inertia Inquiry - Clarke and Dawe](https://github.com/MarkS0485/TSGB-2026/blob/main/Creative%20Outlet/0002%20-%20Clarke%20and%20Dawe%20-%20The%20Inertia%20Inquiry.md) - the man in the chair; sincere, answerable, and not the author of the risk; accountability distributed to a point where it becomes mathematically undetectable. The truest single picture of NESO's structural position.
+- [The Inertia Inquiry - Clarke and Dawe](../corpus/Creative%20Outlet/0002%20-%20Clarke%20and%20Dawe%20-%20The%20Inertia%20Inquiry.md) - the man in the chair; sincere, answerable, and not the author of the risk; accountability distributed to a point where it becomes mathematically undetectable. The truest single picture of NESO's structural position.
 
 ### The Physics
 
-- [Inertia](https://github.com/MarkS0485/TSGB-2026/blob/main/Electrical%20Explainers/0003%20-%20Inertia.md) - stored kinetic energy as a state, not a service; the swing equation and the 2019 event in full.
+- [Inertia](../corpus/Electrical%20Explainers/0003%20-%20Inertia.md) - stored kinetic energy as a state, not a service; the swing equation and the 2019 event in full.
 
 ---
 
